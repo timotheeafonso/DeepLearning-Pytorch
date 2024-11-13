@@ -1,33 +1,31 @@
 # Deep Learning avec PyTorch
 
-Ensemble de fichier Jupyter montrant l'utiisation de Pytorch pour différente tache de Deep Learning.
+Ensemble de fichiers Jupyter montrant l'utilisation de PyTorch pour différentes tâches de Deep Learning.
 
-
-Part 1:
+Partie 1 :
 
 - Prise en main des tenseurs PyTorch
 - Implémentation d'une descente de gradient pour la régression linéaire
 
-Part 2:
+Partie 2 :
 
-- Implémentation d'une descente de gradient pour la régression linéaire avec la fonction dérivable de PyTorch
+- Implémentation d'une descente de gradient pour la régression linéaire avec les fonctions de dérivation de PyTorch
 
-Part 3:
+Partie 3 :
 
-- Utilisation des outils: DataLoader, Checkpointing, Tensorboard
+- Utilisation des outils : DataLoader, Checkpointing, Tensorboard
 - Utilisation du GPU
-- Eperimentation sur le dataset MNIST pour une tache de classification multi-label. Variation du nombre de couche et de la fonction de cout
-- Expérimentation de la régularisation: L1/L2 norm, Dropout, BatchNorm
+- Expérimentation sur le dataset MNIST pour une tâche de classification multi-label. Variation du nombre de couches et de la fonction de coût
+- Expérimentation de la régularisation : norme L1/L2, Dropout, BatchNorm
 
-Part 4:
+Partie 4 :
 
-- Chargement des embeddings pré-entrainés
+- Chargement des embeddings pré-entraînés
 - Manipulation des embeddings
-- Visualuation des embeddings
+- Visualisation des embeddings
 - Classification de phrases courtes, en fonction de différentes représentations et architectures
-- Classification de textes : Finetuning d'un Transformer pre-entraîné sur le corpus IMDB 
+- Classification de textes : Fine-tuning d'un Transformer pré-entraîné sur le corpus IMDB
 
-Part 5:
+Partie 5 :
 
-- Fine tunning de différent CNN pour une tâche de classification
-
+- Fine-tuning de différents CNN pour une tâche de classification
